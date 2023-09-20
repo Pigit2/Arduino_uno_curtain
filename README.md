@@ -1,0 +1,1 @@
+[first project]stm32f103rct6_smart_curtain
